@@ -1,0 +1,4 @@
+# Aperçu de travail, en relecture chez la cliente. Fermé aux moteurs de
+# recherche pour ne pas prendre la place du site définitif le jour de sa mise en ligne.
+User-agent: *
+Disallow: /
